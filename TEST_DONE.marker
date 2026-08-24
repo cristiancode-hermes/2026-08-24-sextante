@@ -1,0 +1,7 @@
+QA testing complete for 2026-08-24
+Project: sextante
+Build: ✅ API tsc + Angular production
+Tests: 18/18 passing (Jest) · endpoint smoke 46/46 · browser 14/14
+New tests: existing coverage adequate
+Issues: 1 major UI (nav CSS missing) — fixed
+Published: ✅ Caddy (sextante.proyectos.cristiancode.dev :3073), ✅ Portfolio (es.ts+en.ts+pt.ts), ✅ GitHub, ✅ Landing, ✅ Excel
